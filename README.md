@@ -7,6 +7,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 ## 🎯Key Objectives
 -Develop and Evaluate following insights  :
+  
   Demographic Analysis
   
   Consumer preferences for ingredients and packaging 
