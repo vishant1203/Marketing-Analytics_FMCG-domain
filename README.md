@@ -6,19 +6,19 @@
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. I, Vishant Saini, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive action.
 
 ## 🎯Key Objectives
--Develop and Evaluate following insights  :
+Develop and Evaluate following insights  :
   
-  Demographic Analysis
+  -Demographic Analysis
   
-  Consumer preferences for ingredients and packaging 
+  -Consumer preferences for ingredients and packaging 
   
-  Competition analysis
+  -Competition analysis
   
-  Brand penetration and Brand awareness
+  -Brand penetration and Brand awareness
   
-  Consumer purchase behaviour
+  -Consumer purchase behaviour
   
-  Product development insights
+  -Product development insights
 
 ## 🔍Data Sources
 -The analysis was conducted using the following datasets in csv format, provided by the Marketing team:
